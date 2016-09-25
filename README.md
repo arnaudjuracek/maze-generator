@@ -3,6 +3,7 @@
 
 <div align="center">
   <sup>Also, check this a*maze*ing [paper](http://www.astrolog.org/labyrnth/algrithm.htm) on mazes in general.</sup>
+  <br>
   <!-- License -->
   <a href="https://raw.githubusercontent.com/arnaudjuracek/xy/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" />
