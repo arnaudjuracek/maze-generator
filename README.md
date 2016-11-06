@@ -2,7 +2,7 @@
 <div align="center">Agnostic maze generator &amp; solver in <code>JS</code>, using <a href="http://weblog.jamisbuck.org/2011/1/24/maze-generation-hunt-and-kill-algorithm">depth first search hunt</a> &amp; kill and <a href="https://en.wikipedia.org/wiki/Breadth-first_search">breadth first search</a> algorithms.</div>
 
 <div align="center">
-  <sup>Also, check this a*maze*ing [paper](http://www.astrolog.org/labyrnth/algrithm.htm) on mazes in general.</sup>
+<sup>Also, check this a<i>maze</i>ing <a href="http://www.astrolog.org/labyrnth/algrithm.htm">paper</a> on mazes in general.</sup>
   <br>
   <!-- License -->
   <a href="https://raw.githubusercontent.com/arnaudjuracek/xy/master/LICENSE">
